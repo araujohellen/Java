@@ -1,3 +1,4 @@
 # Java
-Exercicio1 de Java prof Georges
-Calcule o produto de 3 números inteiros. 
+Exercicio de Java Prof Georges
+Do dia 27/08/2025:
+
