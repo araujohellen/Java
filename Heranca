@@ -1,6 +1,6 @@
 class Animal {
     public String nome;
-    public String raca;   // estava com "Public" (maiúsculo) errado
+    public String raca;  
     public float peso;
 
     public void emitirSom() {
